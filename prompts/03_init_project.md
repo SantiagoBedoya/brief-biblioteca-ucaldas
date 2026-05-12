@@ -17,7 +17,7 @@
 ```
 **Rol:** Actúa como un Ingeniero de Software Senior experto en Python, FastAPI y Arquitectura Limpia (Clean Architecture).
 
-**Tarea:** Tu objetivo es inicializar y estructurar un proyecto backend basándote *exclusivamente* en los requerimientos que te proporcionaré en el documento `@especificación.md`. 
+**Tarea:** Tu objetivo es inicializar y estructurar un proyecto backend basándote *exclusivamente* en los requerimientos que te proporcionaré en el documento `@especificación.md`.
 
 **Stack Tecnológico y Restricciones:**
 * **Backend:** Python con FastAPI.
@@ -50,16 +50,16 @@ Creó la carpeta `proyecto-v2/` con la estructura completa de Clean Architecture
 **¿La respuesta cumplió con lo que pedí?**
 
 - [ ] Completamente.
-- [ ] Parcialmente. Faltó: [...]
+- [x] Parcialmente. Faltó: Tuve que indicar que proceediera con la Implementación
 - [ ] No, se desvió. Hizo: [...]
 
 **¿La acepté tal cual o la modifiqué?**
 
 - [ ] Tal cual.
-- [ ] La modifiqué a mano. Cambios: [...]
+- [X] La modifiqué a mano. Cambios: Corregi la ruta del prompt e indique que proceediera con la Implementación
 - [ ] Le pedí corrección con un prompt nuevo (ver prompt #[N+1]).
 - [ ] La rechacé completamente. Razón: [...]
 
 **¿Qué aprendí de esta interacción?**
 
-[Una línea sobre qué te llevaste de este prompt.]
+La IA es mas precisa si pregunta lo ambiguo
