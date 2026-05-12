@@ -143,7 +143,6 @@ Prestamo 0..1 --- 1 Multa
 | 409 | Conflict | Reglas de negocio violadas (límite alcanzado, duplicado, etc.) |
 | 500 | Internal Server Error | Error no controlado del servidor |
 
-
 ---
 
 ## 8. Restricciones técnicas
